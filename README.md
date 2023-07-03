@@ -1,4 +1,4 @@
-# predicting-lithology-volumetric-contents
+# Predicting-lithology-volumetric-contents
 
 Notes:
 <p align="center">
