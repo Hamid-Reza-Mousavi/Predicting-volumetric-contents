@@ -1,4 +1,4 @@
-# Predicting-lithology-volumetric-contents
+# Predicting Volumetric Contents in Formation 
 
 Data and code related to this work will be shared here.
 
